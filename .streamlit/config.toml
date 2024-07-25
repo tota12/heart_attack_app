@@ -1,0 +1,6 @@
+[theme]
+primaryColor = "#49c5b6"  # Custom blue-green color
+backgroundColor = "#ffffff"  # White
+secondaryBackgroundColor = "#f0f0f0"  # Light grey for contrast
+textColor = "#000000"  # Black
+
